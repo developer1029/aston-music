@@ -1,0 +1,2 @@
+2022-12-02 17:10:30,840:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-12-02 17:10:30,853:INFO:discord.client: logging in using static token
